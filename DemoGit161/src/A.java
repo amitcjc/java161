@@ -5,7 +5,10 @@ public class A
 		System.out.println("Hello");
 	}
 	
-	
+	public  void m2()
+	{
+		
+	}
 	public  void m1()
 	{
 		
