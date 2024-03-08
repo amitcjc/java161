@@ -13,4 +13,9 @@ public class A
 	{
 		
 	}
+
+	public  void m3()
+	{
+		System.out.println("This is M3 ===Git");
+	}
 }
